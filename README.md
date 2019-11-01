@@ -15,4 +15,4 @@ Program | Version | Use
 
 ## Python Code
 
-For conda environment creation use the file PythonCode/MachineLearning.yml
+For **conda environment** creation use the file [PythonCode/MachineLearning.yml](https://github.com/Angkirat/MachineLearningTutorial/blob/master/PythonCode/MachineLearning.yml)
