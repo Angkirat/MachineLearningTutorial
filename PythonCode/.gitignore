@@ -1,6 +1,3 @@
-# Private Local folders
-**/ErrorCode
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
